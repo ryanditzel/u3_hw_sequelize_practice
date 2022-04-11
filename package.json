@@ -1,0 +1,25 @@
+{
+  "name": "u3_hw_sequelize_practice",
+  "version": "1.0.0",
+  "description": "![](https://www.habilelabs.io/wp-content/uploads/2020/11/Solving-Pagination-and-Filter-Issue-in-Sequelize-Using-QueryGenerator-1.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanditzel/u3_hw_sequelize_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanditzel/u3_hw_sequelize_practice/issues"
+  },
+  "homepage": "https://github.com/ryanditzel/u3_hw_sequelize_practice#readme",
+  "dependencies": {
+    "@ngneat/falso": "^4.0.0",
+    "pg": "^8.7.3",
+    "sequelize": "^6.18.0"
+  }
+}
